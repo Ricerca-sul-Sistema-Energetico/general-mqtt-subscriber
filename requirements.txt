@@ -1,0 +1,4 @@
+paho-mqtt
+influxdb
+python-dotenv
+
